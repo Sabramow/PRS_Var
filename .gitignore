@@ -1,6 +1,8 @@
 .Rproj.user
 .Rhistory
 .Ruserdata
+shiny_plot
+docs
 data
 Private
 .RData

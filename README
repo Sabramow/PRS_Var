@@ -1,2 +1,11 @@
-To run
-shinylive::export(appdir = "shiny_plot", destdir = "docs")
+This repository contains a code pipeline for evaluating population and individual-level performance of polygenic risk scores for binary traits, as used in the following publication.
+
+Abramowitz, S. A., Boulier, K., Keat, K., Cardone, K. M., Shivakumar, M., DePaolo, J., Judy, R., Kim, D., Rader, D. J., Ritchie, M., Voight, B. F., Pasaniuc, B., Levin, M. G.*, & Damrauer, S. M.* (2024). Population Performance and Individual Agreement of Coronary Artery Disease Polygenic Risk Scores. https://doi.org/10.1101/2024.07.25.24310931
+
+*These authors jointly supervised this work.
+
+
+
+
+To visualize the variability in individual coronary artery disease (CAD) polygenic risk scores (PRS), as noted in the manuscript, visit the interactive shiny app linked here:
+https://mglev1n.github.io/CAD-prs-variability/.
